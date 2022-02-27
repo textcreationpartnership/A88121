@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Merlinus democritus; or, The merry-conceited prognosticator : containing, a general judgment of the state of Great Brittain, France, and Ireland; and the great change and revolu[t]ion that will happen in the year of our Lord, 1655. Namely, the turning round of the wheel of fortune, and the calculating of every thing in its own proper center, the setting up of heaven vice-gerent, and the administering of truth in the equal scale of justice, the purging of the Commonwealth from caterpillars, the discarding of knaves, and the putting of honest men in their places, the reclaiming of lawyers from taking of fees, and an antidote prescribed for brokers and usurers, to cleer them of their extortionable malady of shaking whole lordships into a consumption. With the great and ominous eclipses that will be this year visible in our horizon, and the effects thereof. / By W. Liby, student in Astrologie.</title>
+            <author>Liby, W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88121</idno>
+            <idno type="STC">Wing L1971</idno>
+            <idno type="STC">Thomason E818_1</idno>
+            <idno type="STC">ESTC R210188</idno>
+            <idno type="EEBO-CITATION">99869008</idno>
+            <idno type="PROQUEST">99869008</idno>
+            <idno type="VID">170679</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88121)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170679)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 256:E818[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Merlinus democritus; or, The merry-conceited prognosticator : containing, a general judgment of the state of Great Brittain, France, and Ireland; and the great change and revolu[t]ion that will happen in the year of our Lord, 1655. Namely, the turning round of the wheel of fortune, and the calculating of every thing in its own proper center, the setting up of heaven vice-gerent, and the administering of truth in the equal scale of justice, the purging of the Commonwealth from caterpillars, the discarding of knaves, and the putting of honest men in their places, the reclaiming of lawyers from taking of fees, and an antidote prescribed for brokers and usurers, to cleer them of their extortionable malady of shaking whole lordships into a consumption. With the great and ominous eclipses that will be this year visible in our horizon, and the effects thereof. / By W. Liby, student in Astrologie.</title>
+                  <author>Liby, W.</author>
+               </titleStmt>
+               <extent>8 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton, and are to be sold at the Royal Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With title page woodcuts illustrations.</note>
+                  <note>W. Liby is a pseudonym.</note>
+                  <note>A satire.</note>
+                  <note>The "t" in "Revolution" has failed to print on title page of Thomason copy.</note>
+                  <note>Annotation on Thomason copy: "Nou: 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Prophecies --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170679:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 42 -->
+            <p>MERLINUS DEMOCRITUS; OR, The Merry-conceited Prognoſticator: CONTAINING, A general Judgment of the State of Great Brittain, France, and Ireland; and the great Change and Revolu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion that will hap<g ref="char:EOLhyphen"/>pen in the Year of our Lord, 1655. <hi>Namely,</hi> The turning round of the Wheel of Fortune, and the calculating of every thing in its own proper Center, The ſetting up of Heavens Vice-gerent, and the adminiſtring of Truth in the equal Scale of Juſtice, The purging of the Commonwealth from Caterpil<g ref="char:EOLhyphen"/>lars, the diſcarding of Knaves, and the putting of honeſt men in their places, The reclaiming of Lawyers from taking of Fees, and an Antidote preſcri<g ref="char:EOLhyphen"/>bed for Brokers and Uſurers, to cleer them of their extortionable Malady of ſhaking whole Lordſhips into a Conſumption. With the great and ominous Eclipſes that will be this year viſible in our Horizon, and the Effects therof.</p>
+            <figure>
+               <figDesc>diagram explaining calculation of solar eclipses</figDesc>
+            </figure>
+            <figure>
+               <figDesc>chart explaining calculation of lunar eclipses</figDesc>
+            </figure>
+            <p>
+               <hi>By</hi> W. Liby, <hi>Student in Aſtrologie.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. Horton,</hi> and are to be ſold at the Royal Exchange, 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="prognostication">
+            <pb facs="tcp:170679:2"/>
+            <!-- PDF PAGE 43 -->
+            <pb n="3" facs="tcp:170679:2"/>
+            <!-- PDF PAGE 43 -->
+            <head>Merlinus Democritus, &amp;c.</head>
+            <figure>
+               <figDesc>personification of a solar eclipse</figDesc>
+            </figure>
+            <figure>
+               <figDesc>personification of a lunar eclipse</figDesc>
+            </figure>
+            <figure>
+               <figDesc>personification of a lunar eclipse</figDesc>
+            </figure>
+            <figure>
+               <figDesc>diagram of lunar eclipse</figDesc>
+            </figure>
+            <q>
+               <l>Had not Sir Arthur Coodcole hang'd his Dog in fury,</l>
+               <l>And call'd Sir William to ſit as Judge and Jury.</l>
+            </q>
+            <p>Well Gentlemen! theſe things portend moſt ſtrange Concavities doubtleſs, beſhrew me, if I fear not a Conſumption of the purſe, even with thoſe Loyall hearts that deſerve moſt; and a great increaſe of Treaſure in the pockets of thoſe that deſerve leaſt. But the beſt on't is, this world will not laſt alwayes; the Wheel of Fortune is now upon turning, that Knaves muſt be diſcarded, and honeſt men enjoy their places. For, have we not a Proſpective at Weſtminſter, that begins to diſcern and find out the Caterpillars of this Nation? Yes, yes, they are now determin'd to winnow and unkenel them, and to call to an Ac<g ref="char:EOLhyphen"/>count
+<pb n="5" facs="tcp:170679:3"/>
+               <!-- PDF PAGE 44 -->the Excizemen, Treaſurers, and Commiſſioners, that ſo they may give a juſt account of their Stewardſhip, or elſe be h—.</p>
+            <p>Beat Drums, ſound Trumpets, here's hopes of a Reformation: Juſtice ſhall flow, and Righteouſneſs ſhall ſtream in every angle of the whole City, the Con<g ref="char:EOLhyphen"/>duits ſhall run with Cream, <hi>that's rare,</hi> and your Citizens wives ſhall never be known to ſtir abroad, or have private meetings, or to make the Beaſt with two Backs with any ſave their own beloved husbands. The honeſt Lawyer (a Title ſomewhat ſtrange) ſhall undertake their Clyents cauſe for nothing, nor ſhall it be poſſible for any man to compel them to take money: Bribery ſhall be laid aſide as impiou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and a Janus face be pelted with addle Eggs, and rotten Oran<g ref="char:EOLhyphen"/>ges by all the Attornies, and Attornies Clerks. Brokers ſhall become honeſt, and Uſurers free-hearted, <hi>that's a wonder.</hi> If not, I ſhall give him this Character, and leave it upon Record to Poſterity<g ref="char:punc">▪</g> 
+               <hi>viz.</hi> That an U<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urer muſt be drawn like to thoſe pictures that have a double aſpect, which if you behold one way ſeems to be a man, but the other way a Devil. He grounds the lawfulneſs of his Uſury from the parable, wherein the ſervant was not approv'd of, that had not im<g ref="char:EOLhyphen"/>prov'd his Talent; he'l be ſure therefore not to hide his, but make the beſt uſe of it. He gets into mens eſtates, as Cut purſes get Cloaks in the night; if he can but wind himſelf into a piece of it, he'l be ſure to get it all at laſt. Or like an Eſſex Ague, will ſhake whole Lordſhips into a Conſumption. H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'s an excel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent Cook to dreſs a young Heir, for he firſt plucks off his feathe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and afterwards ſerves him up to the world with Woodcock ſawce All his life is a golden dream, and this red earth is his Heaven. For his eſtate is raiſed out of the ruines of whole Families, which firſt ſends him in ill getting it, and afterwards his ſonne in ill ſpending it, both to the Devil, and there I leave them.</p>
+            <p>A general conflagration attends the effects of this years Revolution, yet very much tranquility ſeems to arrive the years both of Prince and people. Reli<g ref="char:EOLhyphen"/>gion will ſtill be made a Cloak for Knavery, and Gods Word and Providence a Lacquey to the devil on horſeback. Verily this year produceth notable things. O Heavens! is not thy Viceger<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt the equal Scale? where is then the perfect adminiſtration of true Juſtice? when ſhall we partake and center on thoſe Golden Reins of Government ſo long contended for? What! muſt the weakeſt alwayes go to the wall, and might overcome right? No, no, there is a day of re<g ref="char:EOLhyphen"/>demption coming, wherein ſome great ones will be forced to rectifie their evill practiſes, and conſtrained to give an account of their ſtewardſhips; and reaſon good, they may in time be fatted for the ſlaughter. Certainly, the raſh actions of ſome in Authority, wil produce (in proceſs of time) the greateſt <hi>Cataſtrophe</hi> that ever hapned in England: We are threatned this month, and ſtrange news comes from France; beware an invaſion for the Indies.</p>
+            <pb n="7" facs="tcp:170679:4"/>
+            <!-- PDF PAGE 45 -->
+            <figure>
+               <figDesc>diagram explaining calculation of solar eclipses</figDesc>
+            </figure>
+            <figure>
+               <figDesc>chart explaining calculation of lunar eclipses</figDesc>
+            </figure>
+            <p>A very notable Scene attends the National Affairs, and great acts are brought upon the Stage: withdraw but the Curtain, and you may diſcern the motion
+<pb n="7" facs="tcp:170679:4"/>
+               <!-- PDF PAGE 45 -->of the Puppits, even unto the Netherlands, where the Belgick Lyon begins to roar, and once more to hang forth the skarlet ſtreamers upon the B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ittiſh Oce<g ref="char:EOLhyphen"/>an. Very good, I ſhall I then unravel the myſtery, and tell you in plain Engliſh, that the Dutch begin new Contingencies, and their Whimſie pated Noddles, are altogether elevated with ſtrange Chimera's; wonderful ſpeculation! Rare invention! the Deſign being founded upon the Element of water, although the Conſtitution hangs moſt magically in the ayr, like the Tombe of <hi>Mahomet,</hi> by the vertue and phantfie of ſome magnetical Boar, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Coxcomb. Well! admit this; nevertheleſs, our Commonwealth ſtands in a gallant poſture; and is rea<g ref="char:EOLhyphen"/>dy to receive the enemy, beyond the credit of ſucceeding Ages.</p>
+            <p>Nevertheleſs, ſome in Authority now think to vaump up an old faſhion of Gubernation; and promiſe much, but perform little, <hi>that's no news;</hi> The people ſeem to be merry, but they have ſmall cauſe; for when they think Authority will alter ſomething that may prove beneficial, loe it is but an eſtabliſhing of what they count obnoxious; inſomuch, that the Commonalty are unſatisfied, and many Paper-kites takes their flights up and down the countries, which in<g ref="char:EOLhyphen"/>cites the people to a unanimons petitioning for the abatement of Taxes, I wiſh it unfeignedly; O what a ſweet harmony would Engliſh-men ſing, if every man might enjoy his own.</p>
+            <p>Indeed, a moſt excellent Harmony attends the actions of the Engliſh; and exceedingly wil they in large their Dominions; he French tremble, and are like to ſuffer extreamly; the Spaniards quake, and Royal Phoebus cuts the Aequa<g ref="char:EOLhyphen"/>tor line in the Weſt-Indies, which preſageth notorious actions, and direful things, peſt'ring the Commons, even as many hath done their Kings.</p>
+            <p>Hey-da! great Ones cannot agree, by reaſon of the Aphelion of Mars; &amp; bad ones are taken away, but worſe put into their room: H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re's Virtue puniſhed, &amp; Vice let go; beware the queſtioning of a great man! ſure I am that De<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th ſeizes of a mighty woman: ſome Paraſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e flatters a great man in Authority, &amp; makes him believe wonders; but being diſcovered, it will appear evident, that he hath been Author of more miſchief then a hundred thouſand treacherous Scots, put all together.</p>
+            <p>Yet methinks I hear an Eccho, thu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: We might expect ſome gracious Act or Ordinance to befall the people; but the excellency thereof will ſoon receive an Over-turn for ſome ſpace of time; yet at length its glorious ſplendor will ſhine forth in ſtreams throughout all the dark corners of the Nation, and ſpeak brave Engliſh to the long oppreſſed Commoner: At which time; young <hi>Charles</hi> is much talked of, and very good and pleaſing intelligence delights our Eares from Scotland. But the Merchants are like to ſuffer much at ſea, not onely by Pyracie, but alſo by ſhip wrack. London beware, violent Feavers, Dropſies, Bell<g ref="char:EOLhyphen"/>aches,
+<pb n="8" facs="tcp:170679:5"/>
+               <!-- PDF PAGE 46 -->threaten thy inhabitants: O caſt off thy rebellious diſputes, and maintain no longer thy Worm-eaten Opinions. For if we could but contract the Ele<g ref="char:EOLhyphen"/>ments, we ſhould find the Planets favourable in their Aſpects, promiſing great happineſs and tranquility, both to City and Countrey. Therefore, beware Hol<g ref="char:EOLhyphen"/>land, and have a care thou violate not thy Oath of <hi>Allegiance;</hi> if thou do'ſt, ex<g ref="char:EOLhyphen"/>pect no more mercy then the Devil would afford a Serjeant upon his in groſs into Hell. The year ends merrily, and as the Angels chaunt above, and ſing tryumphant praiſe to the Man-God King; ſo let the people conſpire in one mixt harmony below, that a Saviour is born.</p>
+            <q>
+               <l>And to divulge our cordial zeal the more,</l>
+               <l>Make every Kitchin ſweat to feaſt the Poor.</l>
+            </q>
+            <p>Thus drawing to a concluſion of the year, I ſhall in like manner put a period to the Regal Table of Kings, though dreading the attempt of wading through purple Ponds, and merrily wind up all with this enſuing Clew:</p>
+            <q>
+               <l>Kings have their evil Stars as well as I,</l>
+               <l>And Monarchs travel to Eternitie</l>
+               <l>Like other Mortals; onely here's the odds,</l>
+               <l>They are chaſtis'd with Axes, we with Rodds.</l>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:170679:5"/>
+            <!-- PDF PAGE 46 -->
+         </div>
+      </body>
+   </text>
+</TEI>
